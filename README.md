@@ -6,7 +6,7 @@
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hanzii00&layout=compact&theme=tokyonight&cache_seconds=1)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hanzii00&theme=tokyonight)
 
 
 
