@@ -6,7 +6,7 @@
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hanzii00&theme=tokyonight)
+![Top Langs](https://stats.dooboo.io/api/top-langs?username=hanzii00)
 
 
 
