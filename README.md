@@ -24,15 +24,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hanzii00&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzii00&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hanzii00&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hanzii00&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzii00&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
 ---
@@ -41,6 +34,15 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=hanzii00&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+---
+
+### 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hanzii00&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=1" alt="GitHub Trophies" />
+</p>
+
+> 📝 If the trophies don’t load right away, try refreshing the page — they’re generated dynamically.
 
 ---
 
