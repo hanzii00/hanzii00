@@ -47,8 +47,8 @@
 ### 🔗 Connect With Me
 <p align="center">
   <a href="https://github.com/hanzii00"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="mailto:hanz15-bacus@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://www.linkedin.com/in/hanz-bacus" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:bacushanzchester@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="[https://www.linkedin.com/in/hanz-bacus](https://www.linkedin.com/in/hanz-chester-vicada-bacus-77aba8357/)" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
 ---
