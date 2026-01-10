@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 - 💡 I love solving real-world problems with technology and intuitive design  
-- 🎯 Interests: Web Development · Artificial Intelligence · Computer Vision  
+- 🎯 Interests: Full-stack Development · Artificial Intelligence · Computer Vision  
 - ⚡ Fun fact: I prefer minimalist UI designs and interactive front-end elements  
 
 ---
