@@ -21,6 +21,13 @@
 
 ---
 
+### 📊 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzii00&layout=compact&theme=tokyonight&langs_count=8" alt="hanzii00's Top Languages" />
+</p>
+
+---
+
 ### 🔗 Connect With Me
 <p align="center">
   <a href="https://github.com/hanzii00"><img src="https://skillicons.dev/icons?i=github" /></a>
@@ -30,5 +37,5 @@
 
 ---
 
-⭐ **“Code. Create. Learn. Repeat.”**  
+
 _Thanks for visiting my profile!_
