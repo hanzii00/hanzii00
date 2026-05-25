@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hanz Chester Bacus  
 
-🎓 **Computer Science Student**  
+🎓 **Graduated Computer Science @ Cebu Institute of Technology - University**  
 💻 Passionate about **Web Development**, **AI**, and **Software Engineering**  
 🌱 Currently exploring **JavaScript**, **Django**, and **AI-powered web apps**  
 🚀 Focused on building responsive and interactive user experiences  
